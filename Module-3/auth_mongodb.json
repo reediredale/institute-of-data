@@ -1,0 +1,10 @@
+[ root:
+	{
+		0: "Reed",
+		1: "Iredale"
+	},
+	{
+		color: "green",
+		value: "#0f0"
+	}
+]
